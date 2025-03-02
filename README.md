@@ -8,6 +8,6 @@ The frontend was build with *Vite*, using *Typescript*, and have a minimal custo
 ### Backend
 The backend was build with mini-framework *Express* and just contain the basics config to run a server
 
-~~bash
+~~~bash
     pnpm install
-~~
+~~~
