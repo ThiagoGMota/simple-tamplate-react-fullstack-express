@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node . --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.5.2",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
